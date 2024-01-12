@@ -1,5 +1,3 @@
 Hola Mundo!, este fue el archivo primero creado.
 
 hay se agrego esto.
-
-Esto se esta agregando en la rama nueva
